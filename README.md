@@ -14,5 +14,4 @@
 ⚡ Fun fact: I crave ice cream the most during the wintertime.
 
 📫 Feel free to reach me through GitHub or LinkedIn.
-You can view my resume here: https://file.notion.so/f/f/f3f9557a-3e1d-40f5-9e51-1db370c03a5d/8f6abc69-d174-4ecf-b3f6-1a6463e54ae6/Resume-AE.pdf?table=block&id=1594f0ea-3e31-8080-856f-eab662ffe42a&spaceId=f3f9557a-3e1d-40f5-9e51-1db370c03a5d&expirationTimestamp=1734444000000&signature=TSgBb05xJX2y0K0mjjBvYMZcrLAZPVbILbKKfhGFDKU&downloadName=Resume-AE.pdf
-
+You can view my resume here:[Resume-AE.pdf](https://github.com/user-attachments/files/18149790/Resume-AE.pdf)
