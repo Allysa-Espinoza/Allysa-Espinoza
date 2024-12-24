@@ -2,9 +2,9 @@
 
 
 
-🔭 I’m currently working on my expertise in BI tools and working on projects involving data warehousing and business metrics analysis.
+🔭 I’m currently working on my expertise in BI tools and connecting with others in the BIA community.
 
-📊 Skills: Data Cleaning | Tableau | Excel | SQL | Power BI | 
+📊 Skills: Data Cleaning | Tableau | Excel | SQL | Power BI | Business Analytics
 🎯 Committed to improving data literacy and creating impactful visualizations that tell compelling stories.
 🌱 I’m currently learning: Advanced DAX | Data Warehouse Architecture | Python for BI
 👯 I’m looking to collaborate on BI projects and connect with professionals in the analytics community!
